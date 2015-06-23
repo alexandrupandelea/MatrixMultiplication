@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-#define SIZE 10000
+#define SIZE 1000
 
 std::ifstream input("input.txt");
 std::ofstream output("output.txt");
